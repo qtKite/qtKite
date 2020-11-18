@@ -20,8 +20,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/qtKite" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-
-![Kite's github stats](https://github-readme-stats.vercel.app/api?username=qtkite&theme=dark&show_icons=true)
+<img align="left" alt="Kite's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=qtkite&theme=dark&show_icons=true" />
 
 <a href="https://github.com/qtKite">
   <img src="https://komarev.com/ghpvc/?username=qtKite&style=flat-square&color=red" />
