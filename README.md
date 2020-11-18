@@ -30,7 +30,8 @@ i work basically in my private repos, top secret stuff
 
 ### what i use?
 pretty much only c++  
-
+  
+  
 <a href="https://github.com/qtKite">
   <img src="https://komarev.com/ghpvc/?username=qtKite&style=flat-square&color=red" />
 </a>
