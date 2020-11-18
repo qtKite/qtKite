@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 i work in my private repos, top secret stuff  
 
 ### what i use?
-pretty much only c++  
+mostly c++, php, python
   
   
 <a href="https://github.com/qtKite">
