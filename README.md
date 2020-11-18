@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 ### what i write?
-i work basically in my private repos, top secret stuff  
+i work in my private repos, top secret stuff  
 
 ### what i use?
 pretty much only c++  
