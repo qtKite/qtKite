@@ -1,4 +1,5 @@
-### Hi there 👋
+### hi
+i write code and reverse engineer stuff  
 
 <!--
 **qtKite/qtKite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
