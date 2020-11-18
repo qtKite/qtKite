@@ -22,12 +22,15 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=qtkite&theme=default&show_icons=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qtkite">
-</p>\
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=qtkite&theme=default&show_icons=true">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qtkite">
+</p>
+
+<p>
 <a href="https://github.com/qtKite">
   <img src="https://komarev.com/ghpvc/?username=qtKite&style=flat-square&color=red" />
 </a>
 <a href="https://github.com/qtKite">
   <img src="https://img.shields.io/github/followers/qtKite?style=social" />
 </a>
+</p>
