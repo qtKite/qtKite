@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=qtkite&theme=default&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qtkite">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=qtkite">
 </p>
 
 <a href="https://github.com/qtKite">
