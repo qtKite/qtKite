@@ -25,6 +25,12 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=qtkite&theme=default&show_icons=true">
 </p>
 
+### what i write?
+i work basically in my private repos, top secret stuff  
+
+### what i use?
+pretty much only c++  
+
 <a href="https://github.com/qtKite">
   <img src="https://komarev.com/ghpvc/?username=qtKite&style=flat-square&color=red" />
 </a>
