@@ -19,3 +19,10 @@ Here are some ideas to get you started:
   <a href="https://discord.com/users/521558883383377930" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/qtKite" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
+<a href="https://github.com/qtKite">
+  <img src="https://komarev.com/ghpvc/?username=qtKite&style=flat-square&color=red" />
+</a>
+<a href="https://github.com/qtKite">
+  <img src="https://img.shields.io/github/followers/qtKite?style=social" />
+</a>
