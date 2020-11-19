@@ -1,4 +1,4 @@
-### hi
+### hi, you've found my page 
 i write code and reverse engineer stuff  
 
 <!--
