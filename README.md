@@ -14,7 +14,7 @@ i write code and reverse engineer stuff
 i work in my private repos, top secret stuff  
 
 ### what i use?
-mostly c++, php, python, java and javascript
+mostly c/c++, php, python, java, javascript and occasional asm
   
   
 <a href="https://github.com/qtKite">
