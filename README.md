@@ -1,4 +1,4 @@
-### hi, you've found my page 
+### hi
 i write code and reverse engineer stuff  
 
 <p align="center">
@@ -9,13 +9,6 @@ i write code and reverse engineer stuff
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qtkite&theme=default&show_icons=true">
 </p>
-
-### what i write?
-i work in my private repos, top secret stuff  
-
-### what i use?
-mostly c/c++, php, python, java, javascript and asm
-  
   
 <a href="https://github.com/qtKite">
   <img src="https://komarev.com/ghpvc/?username=qtKite&style=flat-square&color=red" />
